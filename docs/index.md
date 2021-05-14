@@ -4,13 +4,15 @@
 
 
 
-## The Project
+## **The Project**
 
 
 
 ![Screenshot](img/project.png)
 
-## Cards
+## **Cards**
+
+
 
 ![Screenshot](img/Cards.jpg)
 
@@ -28,7 +30,9 @@ Magic cards can be very powerful but have a casting time that vary between cards
 
 
 
-##  Combat
+##  **Combat**
+
+
 
 ![Screenshot](img/Combat.jpg)
 
@@ -50,7 +54,11 @@ Combo cards for powerful special attacks.
 
 Hundreds of combos available to discover, each with different results!
 
-## Level Progression
+
+
+## **Level Progression**
+
+
 
 ![Screenshot](img/LevelProgression.jpg)
 
@@ -64,7 +72,11 @@ If you are low on health you might want to aim for a Health recovery reward, but
 
 Every X amount of levels, you will encounter a Boss room, where you will find one or multiple incredibly strong enemies.
 
-## Blockchain & NFT
+
+
+## **Blockchain & NFT**
+
+
 
 ![Screenshot](img/blockchain.jpg)
 
@@ -72,10 +84,12 @@ Every X amount of levels, you will encounter a Boss room, where you will find on
 
 A massive constantly-updating NFT based marketplace where you can buy and sell items.
 
-## Team and Release scope
+
+
+## **Team and Release scope**
 
 Our main objective is to reach a **much broader audience** than current blockchain based games.
 
-- **Onboarding**: A simple game onboarding that doesn't require the user to be experienced in blockchain and NFT technologies.
+- **Onboarding**: The current entry point for blockchain games is too complicated. We aim to build a much more straightforward onboarding that doesn't require the user to be experienced in blockchain and NFT technologies.
 
 - **Multiple** **platforms**: The game is being developed for PC, but the team has experience developing on consoles and mobile platforms. We believe that to reach a broader audience we have to think much further than just the PC ecosystem.
