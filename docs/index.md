@@ -4,7 +4,9 @@ Last modified: 12th May 2021 ciao
 
 ## Description
 
-The octotrain game is a video game where you navigate the blockchain. It's amazing !!
+The MAgia Arcana woow cards and stuff. It's amazing !!
+
+
 
 ![Screenshot](img/OnePager.png)
 *Above: Magia Arcana OnePager*
@@ -20,3 +22,6 @@ Magia Arcana mixes elements from roguelike, deckbuilding and action RPG games.
 
 Lorem Ipsus Dolor
 
+## Timmy
+
+![Screenshot](img/timmy.jpg)
