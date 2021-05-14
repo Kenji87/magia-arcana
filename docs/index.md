@@ -20,13 +20,19 @@
 
 Drag and drop to use cards, but make sure you have enough Action Points (AP).
 
-![Screenshot](img/PresNew.gif)
+![Screenshot](img/DragCard.gif)
 
 Each card is procedurally generated to give even more variety to the gameplay.
 
 Evolving a card can have different effects: Increase damage output, decrease AP cost, adding Area Of Effect damage, or even adding a new status effect.
 
-Magic cards can be very powerful but have a casting time that vary between cards.
+**Magic cards** can be very powerful but have a casting time that vary between cards.
+
+![Screenshot](img/MagicAttack1.gif)
+
+**Buff cards** also have casting time
+
+![Screenshot](img/Buff.gif)
 
 
 
@@ -40,17 +46,15 @@ Magic cards can be very powerful but have a casting time that vary between cards
 
 The character will automatically attack during your turn
 
-*nuovagifstun
+![Screenshot](img/AutoAttack.gif)
 
 Some cards with Stagger or Stun statuses can affect the enemy turn
 
-*nuovagifstun
+![Screenshot](img/Stagger1.gif)
 
-<img src="img/Testelephant2.gif" alt="Screenshot" style="zoom:50%;" />
+Combo cards for powerful special attacks!
 
-Combo cards for powerful special attacks.
-
-*nuovagif
+![Screenshot](img/Combo1.gif)
 
 Hundreds of combos available to discover, each with different results!
 
