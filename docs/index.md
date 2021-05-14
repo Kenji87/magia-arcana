@@ -50,7 +50,19 @@ Combo cards for powerful special attacks.
 
 Hundreds of combos available to discover, each with different results!
 
+## Level Progression
 
+![Screenshot](img/LevelProgression.jpg)
+
+
+
+Completing any level will reward you with a card plus a specific reward based on your level reward choice.
+
+After a fight, doors to the next level will appear. Pick the one based on your game strategy!
+
+If you are low on health you might want to aim for a Health recovery reward, but you can also try to gain more souls, find shops, or if you are confident in your skills you can even try rooms with additional challenge but double rewards.
+
+Every X amount of levels, you will encounter a Boss room, where you will find one or multiple incredibly strong enemies.
 
 ## Blockchain & NFT
 
