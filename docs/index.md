@@ -44,11 +44,11 @@ Evolving a card can have different effects: Increase damage output, decrease AP 
 
 
 
-The character will automatically attack during your turn
+The character will automatically attack during its turn
 
 ![Screenshot](img/AutoAttack.gif)
 
-Some cards with Stagger or Stun statuses can affect the enemy turn
+Some cards with Stagger or Stun statuses can affect the enemy turn and even stop it midway through a powerful attack.
 
 ![Screenshot](img/Stagger1.gif)
 
@@ -56,7 +56,7 @@ Combo cards for powerful special attacks!
 
 ![Screenshot](img/Combo1.gif)
 
-Hundreds of combos available to discover, each with different results!
+Hundreds of combos available to discover, each with different results! experiment, adapt and create your own playstyle.
 
 
 
@@ -68,11 +68,11 @@ Hundreds of combos available to discover, each with different results!
 
 
 
-Completing any level will reward you with a card plus a specific reward based on your level reward choice.
+Completing a level will reward you with a card plus a specific reward.
 
-After a fight, doors to the next level will appear. Pick the one based on your game strategy!
+After a fight, doors to the next level will appear. Pick the one based on your strategy and risk appetite.
 
-If you are low on health you might want to aim for a Health recovery reward, but you can also try to gain more souls, find shops, or if you are confident in your skills you can even try rooms with additional challenge but double rewards.
+If you are low on health you might want to aim for a Health recovery reward, but you can also try to gain more souls, find shops, or if you are confident in your skills you can even pick a path with additional challenge but double rewards.
 
 Every X amount of levels, you will encounter a Boss room, where you will find one or multiple incredibly strong enemies.
 
@@ -87,6 +87,8 @@ Every X amount of levels, you will encounter a Boss room, where you will find on
 
 
 A massive constantly-updating NFT based marketplace where you can buy and sell items.
+
+All players get access to a starting deck when registering, there is no entry price to start playing.
 
 
 
