@@ -4,6 +4,10 @@
 
 
 
+*The game is in early stage of development, the screenshots below do not represent the final game intentions and are using WIP assets.
+
+
+
 ## **The Project**
 
 
@@ -52,7 +56,11 @@ Some cards with Stagger or Stun statuses can affect the enemy turn and even stop
 
 ![Screenshot](img/Stagger1.gif)
 
-Combo cards for powerful special attacks!
+
+
+One of the most unique feature of Magia Arcana are combos. 
+
+Chain cards together to create combos with devastating effects!
 
 ![Screenshot](img/Combo1.gif)
 
@@ -99,3 +107,9 @@ Our main objective is to reach a **much broader audience** than current blockcha
 - **Onboarding**: The current entry point for blockchain games is too complicated. We aim to build a much more straightforward onboarding that doesn't require the user to be experienced in blockchain and NFT technologies.
 
 - **Multiple** **platforms**: The game is being developed for PC, but the team has experience developing on consoles and mobile platforms. We believe that to reach a broader audience we have to think much further than just the PC ecosystem.
+
+
+
+
+
+Get in touch at magiaarcanagame@gmail.com
