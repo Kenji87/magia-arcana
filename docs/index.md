@@ -1,4 +1,4 @@
-# Magia Arcana Litepaper
+# **Magia Arcana Litepaper**
 
 ![Screenshot](img/MagiaArcanaBanner.jpg)
 
@@ -20,7 +20,7 @@
 
 Drag and drop to use cards, but make sure you have enough Action Points (AP).
 
-*nuovagif
+![Screenshot](img/PresNew.gif)
 
 Each card is procedurally generated to give even more variety to the gameplay.
 
