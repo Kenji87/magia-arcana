@@ -1,27 +1,58 @@
-# Litepaper
+# Magia Arcana Litepaper
 
-Last modified: 12th May 2021 ciao
-
-## Description
-
-The MAgia Arcana woow cards and stuff. It's amazing !!
+![Screenshot](img/MagiaArcanaBanner.jpg)
 
 
 
-![Screenshot](img/OnePager.png)
-*Above: Magia Arcana OnePager*
+## The Project
 
 
- Gameplay
 
-Magia Arcana mixes elements from roguelike, deckbuilding and action RPG games.
+![Screenshot](img/project.jpg)
 
- Combat
+## Cards
 
-![Screenshot](img/Testelephant2.gif)
+![Screenshot](img/cards.jpg)
 
-Lorem Ipsus Dolor
 
-## Timmy
 
-![Screenshot](img/timmy.jpg)
+Drag and drop to use cards, but make sure you have enough Action Points (AP).
+
+*nuovagif
+
+Each card is procedurally generated to give even more variety to the gameplay.
+
+Evolving a card can have different effects: Increase damage output, decrease AP cost, adding Area Of Effect damage, or even adding a new status effect.
+
+Magic cards can be very powerful but have a casting time that vary between cards.
+
+
+
+##  Combat
+
+![Screenshot](img/Combat.jpg)
+
+
+
+Automatically attack during your turn
+
+*nuovagifstun
+
+Some cards with Stagger or Stun statuses can affect the enemy turn
+
+*nuovagifstun
+
+<img src="img/Testelephant2.gif" alt="Screenshot" style="zoom:50%;" />
+
+Combo cards for powerful special attacks.
+
+*nuovagif
+
+Hundreds of combos available to discover, each with different results!
+
+
+
+## Blockchain & NFT
+
+![Screenshot](img/blockchain.jpg)
+
