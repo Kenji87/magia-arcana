@@ -12,7 +12,7 @@
 
 ## Cards
 
-![Screenshot](img/cards.png)
+![Screenshot](img/Cards.jpg)
 
 
 
