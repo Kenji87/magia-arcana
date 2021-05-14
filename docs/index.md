@@ -34,7 +34,7 @@ Magic cards can be very powerful but have a casting time that vary between cards
 
 
 
-Automatically attack during your turn
+The character will automatically attack during your turn
 
 *nuovagifstun
 
@@ -68,3 +68,14 @@ Every X amount of levels, you will encounter a Boss room, where you will find on
 
 ![Screenshot](img/blockchain.jpg)
 
+
+
+A massive constantly-updating NFT based marketplace where you can buy and sell items.
+
+## Team and Release scope
+
+Our main objective is to reach a **much broader audience** than current blockchain based games.
+
+- **Onboarding**: A simple game onboarding that doesn't require the user to be experienced in blockchain and NFT technologies.
+
+- **Multiple** **platforms**: The game is being developed for PC, but the team has experience developing on consoles and mobile platforms. We believe that to reach a broader audience we have to think much further than just the PC ecosystem.
