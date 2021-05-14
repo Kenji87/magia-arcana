@@ -8,11 +8,11 @@
 
 
 
-![Screenshot](img/project.jpg)
+![Screenshot](img/project.png)
 
 ## Cards
 
-![Screenshot](img/cards.jpg)
+![Screenshot](img/cards.png)
 
 
 
